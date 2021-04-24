@@ -1,0 +1,5 @@
+Requirement already up-to-date: torchvision in /usr/local/lib/python3.7/dist-packages (0.9.1+cu101)
+Requirement already satisfied, skipping upgrade: torch==1.8.1 in /usr/local/lib/python3.7/dist-packages (from torchvision) (1.8.1)
+Requirement already satisfied, skipping upgrade: pillow>=4.1.1 in /usr/local/lib/python3.7/dist-packages (from torchvision) (7.1.2)
+Requirement already satisfied, skipping upgrade: numpy in /usr/local/lib/python3.7/dist-packages (from torchvision) (1.19.5)
+Requirement already satisfied, skipping upgrade: typing-extensions in /usr/local/lib/python3.7/dist-packages (from torch==1.8.1->torchvision) (3.7.4.3)
